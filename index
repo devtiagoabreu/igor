@@ -1,0 +1,125 @@
+<html>
+<head>
+  <title>Fancybox test</title>
+  <link rel="stylesheet" href="stylefancy.css">
+  <link href='https://fonts.googleapis.com/css?family=Raleway:400,800' rel='stylesheet' type='text/css'>
+</head>
+<body>
+  <section class="wrapper">
+    <header>
+      <h1>Helcome to my fancybox! :D</h1>
+    </header>
+    <section class="container-gallery small-list-block-1 medium-list-block-3 big-list-block-6">
+      <li class="item-gallery">
+        <a href="#img1">
+          <img src="http://static.zerochan.net/Monkey.D..Luffy.full.1384146.jpg">
+        </a>
+        <a href="#" class="lightbox ease-animate" id="img1">
+          <img src="http://static.zerochan.net/Monkey.D..Luffy.full.1384146.jpg">
+          <span>Hello!</span>
+        </a>
+      </li>
+        
+      <li class="item-gallery">
+        <a href="#img2">
+          <img src="http://static.zerochan.net/Monkey.D..Luffy.full.1884559.jpg">
+        </a>
+        <a href="#" class="lightbox elastic-animate" id="img2">
+          <img src="http://static.zerochan.net/Monkey.D..Luffy.full.1884559.jpg">
+        </a>
+      </li>
+      
+      <li class="item-gallery">
+        <a href="#img3">
+          <img src="http://static.zerochan.net/ONE.PIECE.full.1867212.jpg">
+        </a>
+        <a href="#" class="lightbox fade-animate" id="img3">
+          <img src="http://static.zerochan.net/ONE.PIECE.full.1867212.jpg">
+          <span>Bye Merry</span>
+        </a>
+      </li>
+
+      <li class="item-gallery">
+        <a href="#img4">
+          <img src="https://s-media-cache-ak0.pinimg.com/736x/9c/f1/ce/9cf1ce79bcc849f117ddbc26315ca14c.jpg">
+        </a>
+        <a href="#" class="lightbox ease-animate" id="img4">
+          <img src="https://s-media-cache-ak0.pinimg.com/736x/9c/f1/ce/9cf1ce79bcc849f117ddbc26315ca14c.jpg">
+        </a>
+      </li>
+
+      <li class="item-gallery">
+        <a href="#img5">
+          <img src="http://ptanime.com/wp-content/uploads/2016/03/One-Piece-classic.jpg">
+        </a>
+        <a href="#" class="lightbox elastic-animate" id="img5">
+          <img src="http://ptanime.com/wp-content/uploads/2016/03/One-Piece-classic.jpg">
+        </a>
+      </li>
+
+      <li class="item-gallery">
+        <a href="#img6">
+          <img src="http://static.zerochan.net/Monkey.D..Luffy.full.1456247.jpg">
+        </a>
+        <a href="#" class="lightbox fade-animate" id="img6">
+          <img src="http://static.zerochan.net/Monkey.D..Luffy.full.1456247.jpg">
+        </a>
+      </li>
+
+      <li class="item-gallery">
+        <a href="#img7">
+          <img src="http://s1.zerochan.net/Monkey.D..Luffy.600.630718.jpg">
+        </a>
+        <a href="#" class="lightbox ease-animate" id="img7">
+          <img src="http://s1.zerochan.net/Monkey.D..Luffy.600.630718.jpg">
+        </a>
+      </li>
+
+      <li class="item-gallery">
+        <a href="#img8">
+          <img src="http://static.zerochan.net/Monkey.D..Luffy.full.1295794.jpg">
+        </a>
+        <a href="#" class="lightbox elastic-animate" id="img8">
+          <img src="http://static.zerochan.net/Monkey.D..Luffy.full.1295794.jpg">
+        </a>
+      </li>
+      
+      <li class="item-gallery">
+        <a href="#img9">
+          <img src="http://static.zerochan.net/ASL.full.856647.jpg">
+        </a>
+        <a href="#" class="lightbox fade-animate" id="img9">
+          <img src="http://static.zerochan.net/ASL.full.856647.jpg">
+        </a>
+      </li>
+
+      <li class="item-gallery">
+        <a href="#img10">
+          <img src="http://s1.zerochan.net/ONE.PIECE.600.1958202.jpg">
+        </a>
+        <a href="#" class="lightbox ease-animate" id="img10">
+          <img src="http://s1.zerochan.net/ONE.PIECE.600.1958202.jpg">
+        </a>
+      </li>
+
+      <li class="item-gallery">
+        <a href="#img11">
+          <img src="http://static.zerochan.net/ONE.PIECE.full.1562008.jpg">
+        </a>
+        <a href="#" class="lightbox elastic-animate" id="img11">
+          <img src="http://static.zerochan.net/ONE.PIECE.full.1562008.jpg">
+        </a>
+      </li>
+
+      <li class="item-gallery">
+        <a href="#img12">
+          <img src="http://static.zerochan.net/ONE.PIECE.full.1733567.jpg">
+        </a>
+        <a href="#" class="lightbox fade-animate" id="img12">
+          <img src="http://static.zerochan.net/ONE.PIECE.full.1733567.jpg">
+        </a>
+      </li>
+    </section>
+  </section>
+</body>
+</html>
